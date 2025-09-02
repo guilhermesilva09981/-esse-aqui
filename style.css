@@ -6,8 +6,8 @@
 
 body {
     font-family: 'Roboto', sans-serif;
-    background-color: #F8F9FA; /* Fundo cinza claro */
-    color: #343A40; /* Cor do texto escuro */
+    background-color: #F8F9FA; 
+    color: #343A40; 
     line-height: 1.6;
     padding: 20px;
     display: flex;
@@ -61,7 +61,7 @@ ul {
 .itens {
     background-color: #FFFFFF;
     padding: 12px 20px;
-    border-left: 4px solid #007BFF; /* Linha de destaque azul */
+    border-left: 4px solid #007BFF; 
     border-radius: 6px;
     margin-bottom: 10px;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
@@ -77,7 +77,7 @@ p {
     text-align: justify;
 }
 
-/* Estilo para a imagem */
+
 img {
     display: block;
     max-width: 100%;
@@ -92,7 +92,7 @@ img:hover {
     transform: scale(1.02);
 }
 
-/* Estilo para o vídeo do YouTube */
+
 .video-container {
     position: relative;
     width: 100%;
